@@ -9,3 +9,4 @@ This is the Shambhala Mountain Center Meditation Timer App Project. We have agre
 
 For now: 
 -simply refer to the SMC-Images folder and replace the images currently being displayed during the meditation session.
+-give direction to fc with regard to any design assets that are needed in order for the app to function on the iPhone 5 platform.
